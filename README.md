@@ -1,2 +1,2 @@
 # Data-Visualization
-Personal documentary for matplotlib.pyplot and plotnine usage
+Personal documentary for matplotlib.pyplot library
